@@ -1,0 +1,7 @@
+This is 7zip software.
+1. You can convert files to 7zip files.
+2. Also you can unzip 7zip files.
+3. You can archive files & dis-archive file.
+
+Good luck !
+( Team : Hackerz )
